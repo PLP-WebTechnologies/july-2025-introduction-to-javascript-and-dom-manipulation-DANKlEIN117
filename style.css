@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    padding: 20px;
+}
+
+button {
+    margin: 5px 0;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 6px;
+    background: #dd73cb;
+    color: rgb(61, 73, 129);
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005ccc;
+}
+
+ul {
+    list-style: square;
+}
